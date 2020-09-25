@@ -1,0 +1,21 @@
+.box1{
+    background-image: url('../images/a.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    width: 100px;
+    height: 100px;
+}
+.box2{
+    background-image: url('../images/b.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    width: 100px;
+    height: 100px;
+}
+.box3{
+    background-image: url('../images/c.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    width: 100px;
+    height: 100px;
+}
